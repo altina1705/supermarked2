@@ -2,7 +2,8 @@ package supermarked;
 
 import supermarked.data.*;
 import supermarked.kasse.Kasseapparat;
-import supermarked.robot.Robot;
+import supermarked.robotcd /Users/altina/Documents/supermarked
+        .Robot;
 
 import java.util.Collection;
 import java.util.Map;
